@@ -25,4 +25,4 @@ Um sistema básico de Cadastro, Leitura, Atualização e Exclusão de usuário
 
 Curso Utilizados ao longo do projeto
 
-<a href="https://www.udemy.com/course/curso-web/">Curso Udmy </a> -- Curso feito para a codagem deste projeto
+<a href="https://www.udemy.com/course/curso-web/">Curso Cod3r Academy </a> -- Curso feito para a codagem deste projeto
