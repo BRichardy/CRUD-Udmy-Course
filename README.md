@@ -1,6 +1,6 @@
 # CRUD - Create, Read, Update, Delete
 
-Project made with the curse web complete with Javascript 2021 + Projects in Udmy
+Project made with the course web complete with Javascript 2021 + Projects in Udmy
 
 ##Sumário
 
